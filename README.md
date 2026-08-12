@@ -2,8 +2,6 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6a11cb,100:2575fc&height=210&section=header" width="100%"/>
 
-<img width="150" src="https://readme-typing-svg.demolab.com?font=Poppins&size=45&duration=1&pause=999999&color=2575FC&center=true&vCenter=true&width=1&lines=." alt=""/>
-
 <h1>Salut, moi c'est Fatima 👋</h1>
 
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=20&duration=3200&pause=1200&color=6A11CB&center=true&vCenter=true&width=650&lines=Ing%C3%A9nieure+en+devenir+%E2%80%94+ENSA+K%C3%A9nitra;Passionn%C3%A9e+d%27IA+et+de+syst%C3%A8mes+intelligents;De+B%C3%A9ni+Mellal+%C3%A0+Rabat%2C+un+pas+%C3%A0+la+fois" alt="Typing SVG" />
